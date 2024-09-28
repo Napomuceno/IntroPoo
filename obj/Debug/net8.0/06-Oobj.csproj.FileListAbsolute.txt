@@ -1,0 +1,14 @@
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\bin\Debug\net8.0\06-Oobj.exe
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\bin\Debug\net8.0\06-Oobj.deps.json
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\bin\Debug\net8.0\06-Oobj.runtimeconfig.json
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\bin\Debug\net8.0\06-Oobj.dll
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\bin\Debug\net8.0\06-Oobj.pdb
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.AssemblyInfoInputs.cache
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.AssemblyInfo.cs
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.csproj.CoreCompileInputs.cache
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.dll
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\refint\06-Oobj.dll
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.pdb
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\06-Oobj.genruntimeconfig.cache
+E:\ESTUDOS\DIO\devNet\FormacaoNet Developer\06-Oobj\obj\Debug\net8.0\ref\06-Oobj.dll
